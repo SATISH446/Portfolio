@@ -16,21 +16,12 @@ Welcome to my personal developer portfolio website!
 
 ## ✨ Features
 
-- 👋 About Me Section
-- 🛠️ Skills Display (HTML, CSS, JavaScript, React, Node.js, MongoDB)
-- 💼 Projects Showcase
-- 📞 Contact Form with email
-- 🔄 Responsive Design (Mobile + Desktop)
-- 🎨 Clean & Modern UI/UX
-
----
-
-## 📸 Screenshots
-
-| Desktop View | Mobile View |
-|--------------|-------------|
-| ![desktop](./assets/screenshots/desktop-view.png) | ![mobile](./assets/screenshots/mobile-view.png) |
-
+-  About Me Section
+-  Skills Display (HTML, CSS, JavaScript, React, Node.js, MongoDB)
+-  Projects Showcase
+-  Contact Form with email
+-  Responsive Design (Mobile + Desktop)
+-  Clean & Modern UI/UX
 ---
 
 ## 🛠 Tech Stack
